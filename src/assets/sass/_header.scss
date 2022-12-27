@@ -1,0 +1,21 @@
+header {
+	padding: 2rem 1rem;
+	background-color: #111;
+
+	nav {
+		ul {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			gap: 5rem;
+			list-style: none;
+
+			li {
+				a {
+					color: white;
+					font-weight: bold;
+				}
+			}
+		}
+	}
+}
